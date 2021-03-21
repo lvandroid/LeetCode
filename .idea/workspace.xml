@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52a3667d-412d-4aba-80eb-f6fa2031f162" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_105从前序与中序遍历序列构造二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_105从前序与中序遍历序列构造二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_127单词接龙.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_127单词接龙.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_200岛屿数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_200岛屿数量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_22括号生成.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_22括号生成.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_236二叉树的最近公共祖先.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_236二叉树的最近公共祖先.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_874模拟行走机器人.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_874模拟行走机器人.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_98验证二叉搜索树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bsty/leetcode/week2/_98验证二叉搜索树.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pYHdVmvbMtHlRkMf6GAMpZU07X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bsty.leetcode.week1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52a3667d-412d-4aba-80eb-f6fa2031f162" name="Default Changelist" comment="" />
+      <created>1615353190839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615353190839</updated>
+      <workItem from="1615353192215" duration="9045000" />
+      <workItem from="1615458559226" duration="454000" />
+      <workItem from="1615470506742" duration="10529000" />
+      <workItem from="1615514650951" duration="6231000" />
+      <workItem from="1615562289335" duration="4421000" />
+      <workItem from="1615598128378" duration="3660000" />
+      <workItem from="1615692076524" duration="9914000" />
+      <workItem from="1615774485923" duration="637000" />
+      <workItem from="1615776292084" duration="1144000" />
+      <workItem from="1615825438721" duration="130000" />
+      <workItem from="1615826212286" duration="217000" />
+      <workItem from="1615860781135" duration="15598000" />
+      <workItem from="1615990937594" duration="590000" />
+      <workItem from="1615994356330" duration="242000" />
+      <workItem from="1616000296277" duration="167000" />
+      <workItem from="1616001055053" duration="84000" />
+      <workItem from="1616006228192" duration="11000" />
+      <workItem from="1616032759364" duration="224000" />
+      <workItem from="1616032996763" duration="626000" />
+      <workItem from="1616036295222" duration="321000" />
+      <workItem from="1616066338667" duration="599000" />
+      <workItem from="1616141796610" duration="971000" />
+      <workItem from="1616160355112" duration="3199000" />
+      <workItem from="1616165418004" duration="216000" />
+      <workItem from="1616248786011" duration="631000" />
+      <workItem from="1616288832837" duration="4278000" />
+      <workItem from="1616340235713" duration="1547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="368" key="#Notifications" timestamp="1615515542148">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="368" key="#Notifications/1920.0.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1615515542148" />
+    <state x="773" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1615700086606">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="260" key="#com.intellij.ide.util.MemberChooser/1920.0.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1615700086606" />
+    <state x="648" y="250" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1616340616122">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="648" y="250" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.25.1080.1895/0.25.1920.970@0.25.1920.970" timestamp="1616340616122" />
+    <state x="734" y="438" width="452" height="211" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615700860234">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="734" y="438" width="452" height="211" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1615700860234" />
+    <state x="738" y="414" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1615700314198">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="738" y="414" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/1920.0.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1615700314198" />
+    <state x="578" y="262" key="RollbackChangesDialog" timestamp="1616341590116">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="578" y="264" key="RollbackChangesDialog/1920.0.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1616142765495" />
+    <state x="578" y="262" key="RollbackChangesDialog/1920.25.1080.1895/0.25.1920.970@0.25.1920.970" timestamp="1616341590116" />
+    <state x="469" y="176" key="SettingsEditor" timestamp="1615472963621">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="176" key="SettingsEditor/1920.0.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1615471376953" />
+    <state x="469" y="176" key="SettingsEditor/1920.25.1080.1895/0.0.1920.1080@0.0.1920.1080" timestamp="1615472963621" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1616161735398">
+      <screen x="0" y="0" width="1920" height="995" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1288.58.1288.921/1920.25.1080.1895/0.0.1920.995@0.0.1920.995" timestamp="1616161735398" />
+  </component>
+</project>

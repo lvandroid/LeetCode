@@ -3,99 +3,43 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[11]盛最多水的容器.java">
+        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[11]盛最多水的容器.java" />
-              <option name="questionId" value="11" />
+              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.java" />
+              <option name="questionId" value="105" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[144]二叉树的前序遍历.java">
+        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[127]单词接龙.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[144]二叉树的前序遍历.java" />
-              <option name="questionId" value="144" />
+              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[127]单词接龙.java" />
+              <option name="questionId" value="127" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[155]最小栈.java">
+        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[200]岛屿数量.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[155]最小栈.java" />
-              <option name="questionId" value="155" />
+              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[200]岛屿数量.java" />
+              <option name="questionId" value="200" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[15]三数之和.java">
+        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[22]括号生成.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[15]三数之和.java" />
-              <option name="questionId" value="15" />
+              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[22]括号生成.java" />
+              <option name="questionId" value="22" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[1]两数之和.java">
+        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[236]二叉树的最近公共祖先.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[1]两数之和.java" />
-              <option name="questionId" value="1" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[20]有效的括号.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[20]有效的括号.java" />
-              <option name="questionId" value="20" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[26]删除排序数组中的重复项.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[26]删除排序数组中的重复项.java" />
-              <option name="questionId" value="26" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[283]移动零.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[283]移动零.java" />
-              <option name="questionId" value="283" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[42]接雨水.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[42]接雨水.java" />
-              <option name="questionId" value="42" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[589]N 叉树的前序遍历.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[589]N 叉树的前序遍历.java" />
-              <option name="questionId" value="775" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[599]两个列表的最小索引总和.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[599]两个列表的最小索引总和.java" />
-              <option name="questionId" value="599" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[678]有效的括号字符串.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[678]有效的括号字符串.java" />
-              <option name="questionId" value="678" />
+              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[236]二叉树的最近公共祖先.java" />
+              <option name="questionId" value="236" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -107,11 +51,19 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[94]二叉树的中序遍历.java">
+        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[874]模拟行走机器人.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[94]二叉树的中序遍历.java" />
-              <option name="questionId" value="94" />
+              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[874]模拟行走机器人.java" />
+              <option name="questionId" value="906" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[98]验证二叉搜索树.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/nk/d4sxzlbj7s5gjgj4w0bkdjw00000gn/T/leetcode/editor/cn/[98]验证二叉搜索树.java" />
+              <option name="questionId" value="98" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -120,6 +72,22 @@
             <LeetcodeEditor>
               <option name="path" value="/var/folders/vg/0gwsntnj6zjdrq_13tdnn80c0000gn/T/leetcode/editor/cn/[11]盛最多水的容器.java" />
               <option name="questionId" value="11" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/vg/0gwsntnj6zjdrq_13tdnn80c0000gn/T/leetcode/editor/cn/[17]电话号码的字母组合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/vg/0gwsntnj6zjdrq_13tdnn80c0000gn/T/leetcode/editor/cn/[17]电话号码的字母组合.java" />
+              <option name="questionId" value="17" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/vg/0gwsntnj6zjdrq_13tdnn80c0000gn/T/leetcode/editor/cn/[193]有效电话号码.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/vg/0gwsntnj6zjdrq_13tdnn80c0000gn/T/leetcode/editor/cn/[193]有效电话号码.java" />
+              <option name="questionId" value="193" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -136,6 +104,14 @@
             <LeetcodeEditor>
               <option name="path" value="/var/folders/vg/0gwsntnj6zjdrq_13tdnn80c0000gn/T/leetcode/editor/cn/[70]爬楼梯.java" />
               <option name="questionId" value="70" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/vg/0gwsntnj6zjdrq_13tdnn80c0000gn/T/leetcode/editor/cn/[78]子集.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/vg/0gwsntnj6zjdrq_13tdnn80c0000gn/T/leetcode/editor/cn/[78]子集.java" />
+              <option name="questionId" value="78" />
             </LeetcodeEditor>
           </value>
         </entry>
